@@ -119,7 +119,7 @@
     ?>
     <center><h2>----------------------------------------------------------------------------- Exo 11 ----------------------------------------------------------------------------</h2></center>
     <form action='' method='GET'>
-        <label>pseudo</label>
+        <label>pseudo get</label>
         <input type="text" name='pseudo-get'>
         <input type="submit" value="Envoyer">
     </form>
@@ -130,7 +130,7 @@
     ?>
      <center><h2>----------------------------------------------------------------------------- Exo 12 ----------------------------------------------------------------------------</h2></center>
     <form action='' method='POST'>
-        <label>pseudo</label>       
+        <label>pseudo post</label>       
         <input type="text" name='pseudo-post'>
         <input type="submit" value="Envoyer">
     </form>

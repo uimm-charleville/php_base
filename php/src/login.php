@@ -15,7 +15,7 @@
     <title>Login</title>
 </head>
 <body>
-    <form action="traitement/login.php" method="post">
+    <form action="traitement/traitement_login.php" method="post">
         <label>Entrez l'email</label>
         <input type="email" name="email" id="">
         <label>Entrez le mot de passe</label>
